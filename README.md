@@ -8,6 +8,9 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+This is an exmaple to show different parts of the 
+repository and various commands using a web project
+
 ## Deployment
 
 ## How To Contribute
