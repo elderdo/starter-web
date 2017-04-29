@@ -18,3 +18,5 @@ This is a simple web project, deployment can be on
 any web server, even a local server
 
 ## How To Contribute
+
+Please fork this repository and then issue PULL requests for review
